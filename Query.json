@@ -1,0 +1,127 @@
+[
+  {
+    "Question": "What is the Hospital Management System (HMS)?",
+    "Answer": "The HMS is a comprehensive system designed to manage and automate various hospital functions such as patient information, appointment scheduling, billing, and more.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How does the Hospital Management System benefit healthcare professionals?",
+    "Answer": "It provides healthcare professionals with an organized platform to manage patient data, appointments, medical records, and other operational aspects, improving workflow efficiency and patient care.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Can patients book appointments through the Hospital Management System?",
+    "Answer": "Yes, patients can use the system to schedule appointments with doctors, view available timeslots, and confirm their appointments online.",
+    "AskedFreq": 13
+  },
+  {
+    "Question": "Does the Hospital Management System include billing functionality?",
+    "Answer": "Yes, the system allows for seamless billing, keeping track of payments, insurance claims, and outstanding balances.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I access my medical records through the Hospital Management System?",
+    "Answer": "Yes, patients and authorized healthcare professionals can access and update medical records securely through the system.",
+    "AskedFreq": 11
+  },
+  {
+    "Question": "Is the Hospital Management System only available to healthcare providers?",
+    "Answer": "No, while primarily for healthcare providers, the system also allows patients to interact with the hospital for scheduling, billing, and records management.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I add a new patient to the Hospital Management System?",
+    "Answer": "To add a new patient, login as an admin, navigate to the patient registration section, and enter the required details such as personal information and medical history.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What types of appointments can be scheduled in the Hospital Management System?",
+    "Answer": "Appointments can be scheduled for consultations, follow-up visits, lab tests, and surgery bookings, among others.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Are there any fees to use the Hospital Management System?",
+    "Answer": "There may be subscription fees or one-time licensing charges depending on the setup and deployment options chosen by the healthcare facility.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I manage patient appointments in the Hospital Management System?",
+    "Answer": "Appointments can be managed by accessing the scheduling dashboard, where you can view, reschedule, or cancel appointments as needed.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I contact the hospital staff directly through the Hospital Management System?",
+    "Answer": "Yes, the system allows communication between patients and healthcare staff through messaging or direct phone contact information.",
+    "AskedFreq": 20
+  },
+  {
+    "Question": "Is there a rating system for healthcare providers in the Hospital Management System?",
+    "Answer": "Yes, patients can rate healthcare providers based on their experience, helping others make informed decisions.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is the Hospital Management System available in multiple locations?",
+    "Answer": "Yes, the system can be deployed in multiple locations, making it suitable for large hospital chains or clinics with multiple branches.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I cancel an appointment in the Hospital Management System?",
+    "Answer": "Yes, patients can cancel appointments through the system, but cancellation policies may depend on the healthcare provider's terms.",
+    "AskedFreq": 28
+  },
+  {
+    "Question": "Can I update my personal information in the Hospital Management System?",
+    "Answer": "Yes, patients can update their personal information such as contact details and insurance information directly through their user account.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How secure is the patient data in the Hospital Management System?",
+    "Answer": "The system uses secure encryption methods and follows strict privacy regulations to ensure that patient data is protected.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I get customer support for the Hospital Management System?",
+    "Answer": "Yes, customer support is available through the help section of the system or by contacting the technical support team.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Do I need to create an account to use the Hospital Management System?",
+    "Answer": "Yes, creating an account is required for both patients and healthcare professionals to access the system's features.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I view lab test results in the Hospital Management System?",
+    "Answer": "Yes, patients can view their lab test results securely through their profile in the system.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is the Hospital Management System accessible via mobile app?",
+    "Answer": "Yes, there may be a mobile app available for patients and healthcare professionals to access the system on the go.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I make payments for medical services in the Hospital Management System?",
+    "Answer": "Yes, patients can pay for medical services, including consultations, surgeries, and tests, directly through the system using secure payment methods.",
+    "AskedFreq": 12
+  },
+  {
+    "Question": "Can I request an ambulance through the Hospital Management System?",
+    "Answer": "Yes, the system may include a feature for requesting emergency services such as an ambulance, depending on the hospital's offerings.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Who developed the Hospital Management System?",
+    "Answer": "The Hospital Management System was developed by the development team of LifeCare, a project of Team 3.",
+    "AskedFreq": 4
+  },
+  {
+    "Question": "Who was the inspiration for the Hospital Management System project?",
+    "Answer": "The inspiration came from the need for efficient management of healthcare facilities and improving patient care experiences.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Who are the members of the development team for the Hospital Management System?",
+    "Answer": "The team members are Mridul Gupta, Muskan, and others from Team 3.",
+    "AskedFreq": 0
+  }
+]
